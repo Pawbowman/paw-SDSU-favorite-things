@@ -1,0 +1,16 @@
+body {
+    background: whitesmoke;
+}
+
+img {
+    height: 300px;
+    color: rgb(18, 16, 16);
+}
+
+.white-font {
+    color: rgb(255, 255, 255);
+}
+
+#purple-font {
+    color: rgb(77, 0, 128);
+}
